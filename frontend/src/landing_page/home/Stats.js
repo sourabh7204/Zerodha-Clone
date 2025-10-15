@@ -2,7 +2,6 @@ import React from "react";
 
 function Stats() {
   return (
-    // <!-- Stats Section -->
     <div className="container p-3">
       <div className="row p-5">
         <div className="col-6 p-5">
@@ -29,7 +28,6 @@ function Stats() {
             money.
           </p>
         </div>
-        // <!-- Image Section -->
         <div className="col-6 p-5">
           <img src="media/images/ecosystem.png" style={{ width: "90%" }} />
           <div className="text-center">
