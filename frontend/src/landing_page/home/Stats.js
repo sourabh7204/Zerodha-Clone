@@ -2,6 +2,7 @@ import React from "react";
 
 function Stats() {
   return (
+    // Stats section
     <div className="container p-3">
       <div className="row p-5">
         <div className="col-6 p-5">
