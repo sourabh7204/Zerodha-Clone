@@ -2,7 +2,6 @@ import React from "react";
 
 function Stats() {
   return (
-    // eslint-disable-next-line react/jsx-no-undef
     <div className="container p-3">
       <div className="row p-5">
         <div className="col-6 p-5">
@@ -30,7 +29,6 @@ function Stats() {
           </p>
         </div>
         <div className="col-6 p-5">
-          // eslint-disable-next-line jsx-a11y/img-redundant-alt
           <img src="media/images/ecosystem.png" style={{ width: "90%" }} />
           <div className="text-center">
             <a href="" className="mx-5" style={{ textDecoration: "none" }}>
