@@ -2,7 +2,6 @@ import React from "react";
 
 function Navbar() {
   return (
-    //Navbar
     <nav
       class="navbar navbar-expand-lg border-bottom"
       style={{ backgroundColor: "#FFF" }}
