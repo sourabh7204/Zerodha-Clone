@@ -5,6 +5,7 @@ import Hero from "../home/Hero";
 function PricingPage() {
   return (
     <>
+      //Components
       <Hero />
       <OpenAccount />
       <Brokerage />
