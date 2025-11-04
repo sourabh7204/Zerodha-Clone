@@ -18,7 +18,6 @@ root.render(
   <BrowserRouter>
     <Navbar />
     <Routes>
-      //index
       <Route path="/" element={<HomePage />} />
       <Route path="/signup" element={<SignUp />} />
       <Route path="/about" element={<AboutPage />} />

@@ -1,5 +1,5 @@
-import Hero from "../home/Hero";
-import Team from "../about/Team";
+import Hero from "./Hero";
+import Team from "./Team";
 
 function AboutPage() {
   return (
