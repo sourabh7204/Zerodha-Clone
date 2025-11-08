@@ -2,7 +2,6 @@ import React from "react";
 
 function Team() {
   return (
-    //Team
     <div className="container">
       <div className="row p-5 border-top">
         <h2 className="fs-3   text-center">People</h2>
