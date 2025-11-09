@@ -14,6 +14,7 @@ function Team() {
         <div className="col-6 p-3 text-center">
           <img
             src="media/images/nithinKamath.jpg"
+            alt=""
             style={{ borderRadius: "100%", width: "50%" }}
           />
           <h5 className="mt-3">Nithin Kamath</h5>
@@ -31,16 +32,16 @@ function Team() {
           </p>
           <p>Playing basketball is his zen.</p>
           <p>
-            Connect on{" "}
-            <a href="" style={{ textDecoration: "none" }}>
+            Connect on
+            <a href="/" style={{ textDecoration: "none" }}>
               Homepage
-            </a>{" "}
+            </a>
             /
-            <a href="" style={{ textDecoration: "none" }}>
+            <a href="/" style={{ textDecoration: "none" }}>
               TradingQnA
-            </a>{" "}
+            </a>
             /
-            <a href="" style={{ textDecoration: "none" }}>
+            <a href="/" style={{ textDecoration: "none" }}>
               Twitter
             </a>
           </p>
